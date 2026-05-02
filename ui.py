@@ -14,7 +14,7 @@ def show_hero():
         <div class='hero-badge'>▸ DISCRETE EVENT SIMULATION</div>
 <h1 class='hero-title'>
     Deliv<span style="color: #f97316;">RO</span>
-    <i class="fa-solid fa-truck-arrow-right" style="color: rgb(255, 4, 4); padding-left:10px;"></i>
+   <i class="fa-solid fa-motorcycle" style="color:#f97316;padding-left:10px;"></i>
 </h1>
     <p class='hero-sub'>Food Delivery Operations Simulator — Model queues, bottlenecks, and driver efficiency in real time.</p>
     </div>
